@@ -1,7 +1,7 @@
 {
   "name": "alurabank",
   "version": "1.0.0",
-  "description": "",
+  "description": "TypeScript Parte 1: Evoluindo seu Javascript - Alura",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +12,13 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^2.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasrodriguesabreu/alurabank.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucasrodriguesabreu/alurabank/issues"
+  },
+  "homepage": "https://github.com/lucasrodriguesabreu/alurabank#readme"
 }
